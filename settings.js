@@ -36,11 +36,11 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['6281368176386'] //ur owner number
-global.ownername = "ᴋɪɴɢ ᴅᴀʀᴋ ᴀʟᴘʜᴀ" //ur owner name
-global.ytname = "YT: TGM Arcade" //ur yt chanel name
-global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
-global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
+global.vcardowner = ['6281368176386'] // owner number
+global.ownername = "ᴋɪɴɢ ᴅᴀʀᴋ coklat" // owner name
+global.ytname = "YT: BEDAH FILM" // yt chanel name
+global.socialm = "GitHub: Doramisi1" // github kamu
+global.location = "Indonesia, sumut, medan" // location kamu
 
 //BOT COSTOMIZEDTATION
 global.owner = ['6281368176386']
@@ -49,7 +49,7 @@ global.botnumber = '6283840588676' //Add your Bot Number For Log
 global.botname = 'Gak tau lah capek' //ur bot name
 global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
-global.sc = 'https://github.com/darkalphaxteam' //script link
+global.sc = 'cie pengen sc nya' //script link
 global.linkz = 'https://youtu.be/uzMbW5v9QLE'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
